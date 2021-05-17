@@ -7,10 +7,19 @@ Data on New York City high schools is publicly available through NYCOpenData, as
 Several data files were sourced:
 
 ap_2010.csv - Advanced Placement exam reults for each high school (passing an optional AP exam can earn a student college credit in that subject)
+
 class_size.csv - Information on class size for each school
+
 demographics.csv - Information on school demographics
+
 graduation.csv - Percentage of students who graduated for each school
+
 sat_results.csv - SAT scores by school
+
 high_school_directory.csv - Directory of NY high schools
+
 survey_ny.txt - Data on school surveys from all schools
+
 survey_d75.txt - Data on school surveys from NY District 75
+
+The datasets were cleaned and aggregated into a single csv. The process can be found in the cleaning and aggregation notebook, and the analysis can be found in the data analysis notebook.
