@@ -2,7 +2,7 @@
 
 Investigating the relationship between demographics and performance in high schools is an interesting angle to take to discover the efficacy of standardised tests. NYC has a significant immigrant population, comparing factors such as race, income and gender with SAT performance is a good way to find whether the SAT system is a fair test. For example if a demographic group performs better than others, we would have some evidence that the SAT system is possibly not fair.
 
-Data on New York City high schools is publicly available through NYCOpenData, as well as the demographics of each high school.
+Data on New York City high schools is publicly available through [NYCOpenData](https://opendata.cityofnewyork.us/), as well as the demographics of each high school.
 
 Several data files were sourced:
 
